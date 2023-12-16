@@ -2,7 +2,10 @@
 
 ## 프로젝트 개요
 
-![image](https://github.com/jspark9708/Best-README-Template/assets/55075290/fea374b3-2ede-4668-b564-ccf6b23ef00a)
+<p align="center">
+  <img src="https://github.com/jspark9708/Best-README-Template/assets/55075290/1d9a323f-b9f4-458a-9f39-ae70c4a17677" width="200" height="200" alt="logo">
+</p>
+
 Must Play Game은 각 플랫폼, 콘솔 별로 '메타크리틱'에서 선정한 최고의 게임들을 소개하는 웹사이트입니다. 이 프로젝트는 게임 애호가들에게 다양하고 명작으로 손곱히는 게임을 찾아보고 서로 의견을 공유할 수 있게하기위해 시작했습니다.
 
 [Must Play Game](https://jspark9708.github.io/)
